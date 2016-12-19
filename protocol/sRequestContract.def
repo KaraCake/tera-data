@@ -4,7 +4,7 @@ offset recipientName
 int32  unk1
 uint64 senderId
 uint64 recipientId
-int32  unk2
+int32  type # 3=trade, 4=groupInvite, 11=duel, 18=deathmatch
 int32  dialogId
 int32  unk3
 int32  time
